@@ -1,0 +1,2 @@
+# Simple_CNN_Experiment
+基于MindSpore的简单深度学习小实验（同时也有Pytorch版本）
